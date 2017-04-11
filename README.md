@@ -1,0 +1,1 @@
+#basic styling for a nav bar
